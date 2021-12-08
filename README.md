@@ -14,13 +14,15 @@ This program can do creating MaskingAudioGram.
 # Installation
 
 ```
-$ git clone https://github.com/playre0001/CreateMaskingAudioGram.git
-$ pip3 install --upgrade pip
-$ pip3 install numpy simpleaudio
+git clone https://github.com/playre0001/CreateMaskingAudioGram.git
+pip3 install --upgrade pip
+pip3 install numpy simpleaudio
 ```
 
 # Usage
 
 ```
-$ python3 CreateMaskingAudioGram.py
+python3 CreateMaskingAudioGram.py
 ```
+After, follow the instructions on the standard output.
+Result file is write `./output.csv`
